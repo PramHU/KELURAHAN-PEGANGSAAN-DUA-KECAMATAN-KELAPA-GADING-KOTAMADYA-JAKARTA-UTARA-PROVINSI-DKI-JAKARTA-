@@ -25,9 +25,6 @@
     font-family: 'Montserrat', 'sans-serif';
   }
 </style>
-    <div class="content-wrapper">
-      <!-- Main content -->
-      <div class="content">
 <div class="row mx-5 mt-3">
    <div class="col">
     <a href="https://hariutomo.co.id/" class="btn" style="background-color: #84C2D8; border-radius: 10px">Kembali</a>
@@ -369,7 +366,7 @@ KOTAMADYA JAKARTA UTARA, PROVINSI  DKI JAKARTA.
 
 
         var iconsekolah = L.icon({
-            iconUrl: 'OBJEK ANDRI.png',
+            iconUrl: 'OBJEK BENY.png',
             iconSize:     [300, 300],        
         });
 
